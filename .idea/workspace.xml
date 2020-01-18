@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d268c137-04fc-49ff-8739-34ebeed22961" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/convertor/MilliampsPerHourToWorkingTimeConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/convertor/MilliampsPerHourToWorkingTimeConvertorAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_ROADMAP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_ROADMAP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/carInterface/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/convertor/HorsePowerConvertor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/convertor/HorsePowerConvertorAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/modelsOfCar/Bugatti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/modelsOfCar/Ferrari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/modelsOfCar/Lamborghini.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/modelsOfCar/MercedesBenz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarBackward.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarBackward.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarForward.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarForward.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/repository/CarRepository$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/repository/CarRepository$CarMakeIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/repository/CarRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/repository/Garage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carInterface/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cellPhoneInterface/CellPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/convertor/HorsePowerConvertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/convertor/HorsePowerConvertorAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itarator/Aggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/itarator/Aggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/itarator/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/itarator/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelsOfCar/Bugatti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelsOfPhone/IPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelsOfCar/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelsOfPhone/Samsung.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelsOfCar/Lamborghini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelsOfPhone/Xiaomi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelsOfCar/MercedesBenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelsOfPhone/Nokia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/remoteControl/CarRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/CellPhoneControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/remoteControl/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/remoteControl/MoveCarBackward.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/UninstallAppFromPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/remoteControl/MoveCarForward.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/InstallAppOnPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/remoteControl/MoveCarLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/TurnCellPhoneOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/remoteControl/MoveCarRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/TurnCellPhoneOff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/CellPhoneRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/Store.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQxSGa8I44Q4MCT7LNC1Q1IWYC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559557111306" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Patterns" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d268c137-04fc-49ff-8739-34ebeed22961" name="Default Changelist" comment="" />
+      <created>1550165079836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550165079836</updated>
+      <workItem from="1579095618807" duration="5605000" />
+      <workItem from="1579162972009" duration="45000" />
+      <workItem from="1579163030688" duration="1793000" />
+      <workItem from="1579334845758" duration="426000" />
+      <workItem from="1579336155267" duration="630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="115" key="#Main" timestamp="1579336999370">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="404" y="115" key="#Main/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1579336999370" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579337038278">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1579337038278" />
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1579336923711">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="162" key="#com.intellij.ide.macro.MacrosDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1579336923711" />
+    <state x="2213" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1579338124403">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2213" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579338124403" />
+    <state x="2213" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/3360.0.1920.1080/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579101147439" />
+    <state x="2117" y="90" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579102537315">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2117" y="90" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/3360.0.1920.1080/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579102537315" />
+    <state width="1878" height="245" key="GridCell.Tab.0.bottom" timestamp="1579338909824">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579338909824" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/3360.0.1920.1080/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579102039844" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/0.23.1440.877/3360.23.1920.1057/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579162955343" />
+    <state width="1878" height="245" key="GridCell.Tab.0.center" timestamp="1579338909822">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579338909822" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.0.1440.900/3360.0.1920.1080/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579102039842" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/0.23.1440.877/3360.23.1920.1057/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579162955341" />
+    <state width="1878" height="245" key="GridCell.Tab.0.left" timestamp="1579338909821">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579338909821" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.0.1440.900/3360.0.1920.1080/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579102039841" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/0.23.1440.877/3360.23.1920.1057/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579162955340" />
+    <state width="1878" height="245" key="GridCell.Tab.0.right" timestamp="1579338909824">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579338909824" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.0.1440.900/3360.0.1920.1080/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579102039843" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/0.23.1440.877/3360.23.1920.1057/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579162955342" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1579336678082">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1579336678082" />
+    <state x="2065" y="297" width="667" height="486" key="find.popup" timestamp="1579338770179">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2065" y="297" width="667" height="486" key="find.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579338770179" />
+  </component>
+</project>
