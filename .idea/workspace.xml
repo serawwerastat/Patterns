@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d268c137-04fc-49ff-8739-34ebeed22961" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/convertor/MilliampsPerHourToWorkingTimeConvertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/convertor/MilliampsPerHourToWorkingTimeConvertorAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_ROADMAP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_ROADMAP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/carInterface/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/convertor/HorsePowerConvertor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/convertor/HorsePowerConvertorAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/modelsOfCar/Bugatti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/modelsOfCar/Ferrari.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/modelsOfCar/Lamborghini.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/modelsOfCar/MercedesBenz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarBackward.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarBackward.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarForward.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarForward.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarLeft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_ROADMAP/remoteControl/MoveCarRight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/repository/CarRepository$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/repository/CarRepository$CarMakeIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/repository/CarRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_ROADMAP/repository/Garage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carInterface/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cellPhoneInterface/CellPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/convertor/HorsePowerConvertor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/convertor/HorsePowerConvertorAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/itarator/Aggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/itarator/Aggregate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/itarator/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/itarator/Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelsOfCar/Bugatti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelsOfPhone/IPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelsOfCar/Ferrari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelsOfPhone/Samsung.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelsOfCar/Lamborghini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelsOfPhone/Xiaomi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelsOfCar/MercedesBenz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelsOfPhone/Nokia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/remoteControl/CarRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/CellPhoneControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/remoteControl/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/remoteControl/MoveCarBackward.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/UninstallAppFromPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/remoteControl/MoveCarForward.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/InstallAppOnPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/remoteControl/MoveCarLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/TurnCellPhoneOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/remoteControl/MoveCarRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/remoteControl/TurnCellPhoneOff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/CellPhoneRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/Store.java" afterDir="false" />
-    </list>
+    <list default="true" id="d268c137-04fc-49ff-8739-34ebeed22961" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,10 +87,22 @@
       <workItem from="1579334845758" duration="426000" />
       <workItem from="1579336155267" duration="630000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1579339027234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579339027234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="115" key="#Main" timestamp="1579336999370">
@@ -155,6 +126,10 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="2117" y="90" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900/3360.0.1920.1080/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579102537315" />
+    <state x="1967" y="144" key="CommitChangelistDialog2" timestamp="1579339026883">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1967" y="144" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1579339026883" />
     <state width="1878" height="245" key="GridCell.Tab.0.bottom" timestamp="1579338909824">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
